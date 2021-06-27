@@ -8,4 +8,4 @@
 
 分类|书名|出版年份|阅读状态|阅读开始-结束时间|已读的章节|评价|阅读笔记细节的描述|
 ---|---|---|---|---|---|---|---|
-linux|linuxGNUC技术观察|2020|未读||||[](https://github.com/stevenli91748/My-Study-Notes/blob/main/linux/linuxGNUC%E6%8A%80%E6%9C%AF%E8%A7%82%E5%AF%9F.pdf)|
+linux|linuxGNUC技术观察|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/linux/linuxGNUC%E6%8A%80%E6%9C%AF%E8%A7%82%E5%AF%9F.pdf)|
