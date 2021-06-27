@@ -19,3 +19,5 @@ SpringBoot|SpringBoot实战派|2020|未读||||[阅读笔记](https://github.com/
 SpringCloud|Spring Cloud微服务架构实战派|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/Spring%20Cloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E6%88%98%E6%B4%BE.md)|
 SpringCloud|深入理解SpringCloud与实战|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3SpringCloud%E4%B8%8E%E5%AE%9E%E6%88%98.md)|
 SpringCloud|SpringCloud与Docker微服务架构实战|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/linux/linuxGNUC%E6%8A%80%E6%9C%AF%E8%A7%82%E5%AF%9F.md)|
+架构设计|业务架构应用架构数据架构|2021|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/%E4%B8%9A%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84.md)|
+架构设计|JAVA架构之完美设计：实战经典|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1/JAVA%E6%9E%B6%E6%9E%84%E4%B9%8B%E5%AE%8C%E7%BE%8E%E8%AE%BE%E8%AE%A1%EF%BC%9A%E5%AE%9E%E6%88%98%E7%BB%8F%E5%85%B8.md)|
