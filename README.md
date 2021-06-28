@@ -13,6 +13,7 @@ Linux|linuxGNUC技术观察|2020|未读||||[阅读笔记](https://github.com/ste
 Linux|linux内核观测技术|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/linux/linux%E5%86%85%E6%A0%B8%E8%A7%82%E6%B5%8B%E6%8A%80%E6%9C%AF.md)|
 Java|effectiveJava第三版|2019|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Java/effectiveJava%E7%AC%AC%E4%B8%89%E7%89%88.md)|
 Java|Java异步编程实战|2019|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Java/Java%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.md)|
+Java|java深度调试技术|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Java/java%E6%B7%B1%E5%BA%A6%E8%B0%83%E8%AF%95%E6%8A%80%E6%9C%AF.md)|
 Spring|Spring响应式编程|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/Spring%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B.md)|
 Spring|Spring5核心原理与个类手写实战|2019|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/Spring5%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B8%AA%E7%B1%BB%E6%89%8B%E5%86%99%E5%AE%9E%E6%88%98.md)|
 SpringBoot|基于SpringBoot实现：Java分布式中间件开发入门与实战|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/%E5%9F%BA%E4%BA%8ESpringBoot%E5%AE%9E%E7%8E%B0%EF%BC%9AJava%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.md)|
