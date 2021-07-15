@@ -49,6 +49,7 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 面试|Offer来了：Java面试核心知识点精讲（框架篇）|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E9%9D%A2%E8%AF%95/Offer%E6%9D%A5%E4%BA%86%EF%BC%9AJava%E9%9D%A2%E8%AF%95%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%E7%B2%BE%E8%AE%B2%EF%BC%88%E6%A1%86%E6%9E%B6%E7%AF%87%EF%BC%89.md)|
 面试|Offer来了：Java面试核心知识点精讲|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E9%9D%A2%E8%AF%95/Offer%E6%9D%A5%E4%BA%86%EF%BC%9AJava%E9%9D%A2%E8%AF%95%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%E7%B2%BE%E8%AE%B2.md)|
 面试|JAVA核心知识点整理|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E9%9D%A2%E8%AF%95/JAVA%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.md)|
+面试|Java面经手册|2021|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E9%9D%A2%E8%AF%95/Java%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8C.md)|
 设计模式|研磨设计模式|2017|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%A0%94%E7%A3%A8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)|
 设计模式|重学 Java 设计模式|2021|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)|
 
