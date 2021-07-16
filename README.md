@@ -52,4 +52,6 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 面试|Java面经手册|2021|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E9%9D%A2%E8%AF%95/Java%E9%9D%A2%E7%BB%8F%E6%89%8B%E5%86%8C.md)|
 设计模式|研磨设计模式|2017|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%A0%94%E7%A3%A8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)|
 设计模式|重学 Java 设计模式|2021|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E9%87%8D%E5%AD%A6%20Java%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)|
+中间件|分布式中间件技术实战|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%88%98.md)|
+中间件|分布式消息中间件实践|2018|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E5%88%86%E5%B8%83%E5%BC%8F%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5.md)|
 
