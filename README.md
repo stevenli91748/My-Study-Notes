@@ -72,6 +72,6 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 
 
 # 项目
-
+* [凤凰架构---这是针对不同架构、技术方案（SpringBoot单体架构、Spring Cloud 实现微服务架构、Kubernetes 为基础设施的微服务架构, Istio 为基础设施的服务网格架构、AWS Lambda 为基础的无服务架构）的演示程序](https://icyfenix.cn/exploration/projects/)
 * [mall学习教程---Java Topic排行榜第九排名的项目, 架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统](http://www.macrozheng.com/#/README)
 * [锋迷商城 ---对标阿里P7/P8 有极高的含金量，采用当下最主流的微服务分布式架构，前后端分离技术 掌握本套课程，你将拥有千万级电商项目实战经验](https://www.bilibili.com/video/BV12p4y187Dj/)
