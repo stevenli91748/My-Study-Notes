@@ -72,7 +72,15 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 
 
 # 项目
+## 架构项目
 * [凤凰架构---这是针对不同架构、技术方案（SpringBoot单体架构、Spring Cloud 实现微服务架构、Kubernetes 为基础设施的微服务架构, Istio 为基础设施的服务网格架构、AWS Lambda 为基础的无服务架构）的演示程序](https://icyfenix.cn/exploration/projects/)
+
+## Spring 全家桶项目
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)
+* [spring-boot-demo---一个用来深度学习并实战 spring boot 的项目，目前总共包含 66 个集成demo](https://github.com/xkcoding/spring-boot-demo)
+* [Spring Boot 学习示例](https://github.com/ityouknow/spring-boot-examples)
+* [Spring Cloud 学习案例](https://github.com/ityouknow/spring-cloud-examples)
+
+## 综合项目
 * [mall学习教程---Java Topic排行榜第九排名的项目, 架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统](http://www.macrozheng.com/#/README)
 * [锋迷商城 ---对标阿里P7/P8 有极高的含金量，采用当下最主流的微服务分布式架构，前后端分离技术 掌握本套课程，你将拥有千万级电商项目实战经验](https://www.bilibili.com/video/BV12p4y187Dj/)
