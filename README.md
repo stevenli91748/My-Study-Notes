@@ -84,3 +84,4 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 ## 综合项目
 * [mall学习教程---Java Topic排行榜第九排名的项目, 架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统](http://www.macrozheng.com/#/README)
 * [锋迷商城 ---对标阿里P7/P8 有极高的含金量，采用当下最主流的微服务分布式架构，前后端分离技术 掌握本套课程，你将拥有千万级电商项目实战经验](https://www.bilibili.com/video/BV12p4y187Dj/)
+* [高并发分布式技术企业级大型项目实战400讲(附源码)](https://edu.51cto.com/center/course/lesson/index?id=564135)
