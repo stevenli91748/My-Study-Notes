@@ -85,7 +85,7 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 ### Spring Cloud
 * [Spring Cloud 学习案例](https://github.com/ityouknow/spring-cloud-examples)
 * [open-capacity-platform---仿百度能力开放平台的spring cloud 微服务框架](https://www.kancloud.cn/owenwangwen/open-capacity-platform)
-* 
+* [Spring Cloud 微服务权限系统搭建教程---基于Spring Cloud Hoxton.RELEASE&Spring Cloud Oauth2&Spring Cloud Alibaba的微服务权限系统，手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud)
 ## 数据库项目
 
  * [数据库面试选择题精讲（第一期）（001-100）](https://edu.51cto.com/center/course/lesson/index?id=684264)
@@ -103,4 +103,4 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 
 * [Nginx从小白到大神](https://www.kancloud.cn/ll90/liuyaofu/2144222)
 * [微服务架构搭建运维---本文档在三台机器上部署微服务架构: 1. 基于Redis5.0部署Redis集群 2. 基于mycat部署mysql读写分离集群 3. 部署zookeeper集群和kafka集群](https://www.kancloud.cn/xiaohuamao/micro)
-* 
+* [k8s原理与实践---docker、Kubernetes原理讲解与案例演示](https://www.kancloud.cn/pm1028/kubenetes)
