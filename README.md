@@ -93,3 +93,7 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 * [高并发分布式技术企业级大型项目实战400讲(附源码)](https://edu.51cto.com/center/course/lesson/index?id=564135)
 * [2019尚硅谷谷粒商城微服务SpringBoot,Dubbo,MySql高级,Redis秒杀,ElasticSearch,ActiveMQ,SSO单点](https://github.com/stevenli91748/JAVA-Architecture/blob/master/project/%E8%B0%B7%E7%B2%92%E5%95%86%E5%9F%8E--%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E5%BC%8F%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE/README.md "谷粒商城是一个高并发、高可用、分布式架构的电商网站. SpringBoot+MyBatisPlus+Dubbo+RabbitMQ+Redis+Elasticsearch+Docker/K8S +Vue.js完全分布式系统架构,高并发与压力测试、MySQL集群/读写分离、Elasticsearch分布式搜索集群、Redis缓存集群、Nginx+Lua分布式限流、Redis+Lua分布式锁、支付宝接口、Docker虚拟化容器部署、高并发秒杀解决方案、RabbitMQ消息中间件、MyCat分库分表、Canal订阅binlog抽取MySQL数据、Servlet3.0异步线程隔离、异步编排") 
 * [ SpringCloud技术栈微服务架构天猫商城企业级开发实战(源码+讲义+答疑) ](https://edu.51cto.com/center/course/lesson/index?id=673151)
+
+## 运维
+
+* [Nginx从小白到大神](https://www.kancloud.cn/ll90/liuyaofu/2144222)
