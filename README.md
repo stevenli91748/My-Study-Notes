@@ -106,6 +106,14 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 
 * [Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)---HttpBasic、formLogin验证模式，RBAC权限模型，JWT、OAuth2等核心技术。验证码、图片验证码、单点登录及社交媒体登录等功能全覆盖](https://www.kancloud.cn/hanxt/springsecurity)
 
+### AWS项目
+
+* [AWS云计算官方课程——AWS操作指南系列](https://edu.51cto.com/center/course/lesson/index?id=178872)
+* [AWS云计算官方课程——解读AWS产品及云计算基础知识](https://edu.51cto.com/center/course/lesson/index?id=180077)
+* [AWS前沿云计算课程——数据加密和密钥管理技术实践](https://edu.51cto.com/center/course/lesson/index?id=222580)
+* [AWS前沿云计算课程——学习云上部署及Web应用程序管理](https://edu.51cto.com/center/course/lesson/index?id=387753)
+* [亚马逊云科技 10分钟学习部署Web应用程序](https://edu.51cto.com/center/course/lesson/index?id=387748)
+
 
 ### 数据库项目
 
