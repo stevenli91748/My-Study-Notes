@@ -102,3 +102,5 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 ## 运维项目
 
 * [Nginx从小白到大神](https://www.kancloud.cn/ll90/liuyaofu/2144222)
+* [微服务架构搭建运维---本文档在三台机器上部署微服务架构: 1. 基于Redis5.0部署Redis集群 2. 基于mycat部署mysql读写分离集群 3. 部署zookeeper集群和kafka集群](https://www.kancloud.cn/xiaohuamao/micro)
+* 
