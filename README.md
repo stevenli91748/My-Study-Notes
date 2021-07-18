@@ -72,29 +72,47 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 
 
 # 项目
-## 架构项目
+
+## 前端项目
+
+* [VUE深入浅出系列](https://www.kancloud.cn/hanxt/vuejs2)
+
+## 后端项目
+
+### 架构项目
 * [凤凰架构---这是针对不同架构、技术方案（SpringBoot单体架构、Spring Cloud 实现微服务架构、Kubernetes 为基础设施的微服务架构, Istio 为基础设施的服务网格架构、AWS Lambda 为基础的无服务架构）的演示程序](https://icyfenix.cn/exploration/projects/)
 
-## Spring 全家桶项目
+
+### Spring 全家桶项目
 
 * [学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)
 
-### Spring Boot
+#### Spring Boot
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)
 * [ 深入浅出Spring Boot2.x](https://edu.51cto.com/center/course/lesson/index?id=427735)
 * [spring-boot-demo---一个用来深度学习并实战 spring boot 的项目，目前总共包含 66 个集成demo](https://github.com/xkcoding/spring-boot-demo)
 * [Spring Boot 学习案例](https://github.com/ityouknow/spring-boot-examples)
 * [Activiti6工作流系统搭建教程---基于SpringBoot2+Activiti6.0.0 搭建的工作流系统, 将从零开始演示如何逐步搭建一个包含有Activiti工作流的企业级OA系统](https://www.kancloud.cn/gaoyipeng/garnett)
-### Spring Cloud
+
+#### Spring Cloud
 * [Spring Cloud 学习案例](https://github.com/ityouknow/spring-cloud-examples)
+* [DongBB-前后端分离RBAC权限管理系统---基于SpringBoot的单体架构](https://www.kancloud.cn/hanxt/vue-spring)
+* [实战SpringCloud微服务从青铜到王者---基于DongBB单体架构发展的微服务架构](https://www.kancloud.cn/hanxt/springcloud)
 * [open-capacity-platform---仿百度能力开放平台的spring cloud 微服务框架](https://www.kancloud.cn/owenwangwen/open-capacity-platform)
 * [Spring Cloud 微服务权限系统搭建教程---该教程将从零开始演示如何逐步搭建一个完整的微服务后台权限系统(基于Spring Cloud Hoxton.RELEASE&Spring Cloud Oauth2&Spring Cloud Alibaba的微服务权限系统)，手把手教你从零搭建到Docker部署（新增K8S集群部署教程）](https://www.kancloud.cn/mrbird/spring-cloud)
-## 数据库项目
+
+
+#### Spring Security
+
+* [Spring Security-JWT-OAuth2一本通(基于SpringBoot2.0)---HttpBasic、formLogin验证模式，RBAC权限模型，JWT、OAuth2等核心技术。验证码、图片验证码、单点登录及社交媒体登录等功能全覆盖](https://www.kancloud.cn/hanxt/springsecurity)
+
+
+### 数据库项目
 
  * [数据库面试选择题精讲（第一期）（001-100）](https://edu.51cto.com/center/course/lesson/index?id=684264)
  * [数据库面试选择题精讲（第二期）（101-200）](https://edu.51cto.com/center/course/lesson/index?id=734912)
 
-## 综合项目
+### 综合项目
 * [mall学习教程---Java Topic排行榜第九排名的项目, 架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统](http://www.macrozheng.com/#/README)
 * [锋迷商城 ---对标阿里P7/P8 有极高的含金量，采用当下最主流的微服务分布式架构，前后端分离技术 掌握本套课程，你将拥有千万级电商项目实战经验](https://www.bilibili.com/video/BV12p4y187Dj/)
 * [高并发分布式技术企业级大型项目实战400讲(附源码)](https://edu.51cto.com/center/course/lesson/index?id=564135)
@@ -102,7 +120,7 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 * [ SpringCloud技术栈微服务架构天猫商城企业级开发实战(源码+讲义+答疑)](https://edu.51cto.com/center/course/lesson/index?id=673151)
 * [企业级微服务框架项目技术文档---基于SpringBoot2.x和SpringCloud并采用前后端分离的架构,支持CI/CD多环境部署,引入组件化的思想实现高内聚低耦合,实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案](https://www.kancloud.cn/zlt2000/microservices-platform)
 * 
-## 运维项目
+### 运维项目
 
 * [Nginx从小白到大神](https://www.kancloud.cn/ll90/liuyaofu/2144222)
 * [微服务架构搭建运维---本文档在三台机器上部署微服务架构: 1. 基于Redis5.0部署Redis集群 2. 基于mycat部署mysql读写分离集群 3. 部署zookeeper集群和kafka集群](https://www.kancloud.cn/xiaohuamao/micro)
