@@ -76,6 +76,9 @@ Kubernetes|Kubernetes生产化实践之路|2020|未读||||[阅读笔记](https:/
 * [凤凰架构---这是针对不同架构、技术方案（SpringBoot单体架构、Spring Cloud 实现微服务架构、Kubernetes 为基础设施的微服务架构, Istio 为基础设施的服务网格架构、AWS Lambda 为基础的无服务架构）的演示程序](https://icyfenix.cn/exploration/projects/)
 
 ## Spring 全家桶项目
+
+* [学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)
+
 ### Spring Boot
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed)
 * [ 深入浅出Spring Boot2.x](https://edu.51cto.com/center/course/lesson/index?id=427735)
