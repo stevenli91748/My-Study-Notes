@@ -29,6 +29,7 @@ Spring|Spring5核心原理与个类手写实战|2019|未读||||[阅读笔记](ht
 SpringBoot|Spring Boot编程思想（核心篇）|2019|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/Spring%20Boot%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%EF%BC%88%E6%A0%B8%E5%BF%83%E7%AF%87%EF%BC%89.md)|
 SpringBoot|SpringBoot技术内幕：架构设计与实现原理|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/SpringBoot%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%9A%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)|
 SpringBoot|SpringBoot实战派|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/SpringBoot%E5%AE%9E%E6%88%98%E6%B4%BE.md)|
+SpringCloud|Spring Cloud Alibaba微服务原理与实战|2020|在读||||
 SpringCloud|Spring Cloud微服务架构实战派|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/Spring%20Cloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E6%88%98%E6%B4%BE.md)|
 SpringCloud|深入理解SpringCloud与实战|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/Sprihng/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3SpringCloud%E4%B8%8E%E5%AE%9E%E6%88%98.md)|
 SpringCloud|SpringCloud与Docker微服务架构实战|2020|未读||||[阅读笔记](https://github.com/stevenli91748/My-Study-Notes/blob/main/linux/linuxGNUC%E6%8A%80%E6%9C%AF%E8%A7%82%E5%AF%9F.md)|
